@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "lat": 15.830,
+    "lng": 78.040,
+    "address": "Main Road, Kadapa"
+  },
+  {
+    "id": 2,
+    "name": "Apollo Clinic",
+    "lat": 15.832,
+    "lng": 78.045,
+    "address": "Bypass Road, Kadapa"
+  }
+]
