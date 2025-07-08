@@ -1,10 +1,12 @@
 # 🔴 LifeLine - Emergency Aid Navigator
 
+
+
 A real-time Progressive Web Application (PWA) that connects users with nearby hospitals and volunteers during emergencies. LifeLine integrates geolocation, Google sign-in, Firebase, Twilio SMS alerts, and an intuitive UI to deliver fast, reliable aid with a single click.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - 🗺️ **Live Map View** using Leaflet to show nearby hospitals and volunteers  
 - 🔍 **Search Functionality** for hospitals and volunteers  
@@ -18,7 +20,7 @@ A real-time Progressive Web Application (PWA) that connects users with nearby ho
 
 ---
 
-## 🏗️ Tech Stack
+# 🏗️ Tech Stack
 
 | Category       | Technology                                      |
 |----------------|--------------------------------------------------|
@@ -32,7 +34,7 @@ A real-time Progressive Web Application (PWA) that connects users with nearby ho
 
 ---
 
-## 📦 Folder Structure
+# 📦 Folder Structure
 
 ```bash
 lifeline-app/
@@ -55,13 +57,15 @@ lifeline-app/
 ```
 ---
 
-⚙️ Setup & Installation
+# ⚙️ Setup & Installation
 
 
 1. Clone the repository
 
 
 git clone https://github.com/your-username/life-line-ImpactMVP-Hackathon.git
+
+
 cd lifeline-app
 
 
@@ -69,16 +73,21 @@ cd lifeline-app
 
 
 cd backend
+
 npm install
-# Create .env and add:
-# TWILIO_SID=your_sid
-# TWILIO_AUTH=your_auth_token
-# TWILIO_PHONE=+your_twilio_number
+
+ Create .env and add:
+ 
+ TWILIO_SID=your_sid
+ 
+ TWILIO_AUTH=your_auth_token
+ 
+ TWILIO_PHONE=+your_twilio_number
 
 node server.js
 
 
-3. Setup frontend
+# 3. Setup frontend
 
 cd ../frontend
 
@@ -87,7 +96,8 @@ npm install
 npm start
 
 ---
-🆘 How It Works
+
+# 🆘 How It Works
 
 
 User opens app → Location is detected via browser
@@ -104,7 +114,7 @@ Volunteers list shown dynamically from backend
 ---
 
 
-🖼️ Screenshots
+# 🖼️ Screenshots
 
 
 Login & Search	SOS Alert	Map View
@@ -113,7 +123,7 @@ Login & Search	SOS Alert	Map View
 ---
 
 
-🔐 Environment Variables
+## 🔐 Environment Variables
 
 
 Create a .env file in backend/:
@@ -130,7 +140,7 @@ TWILIO_PHONE=+1234567890
 
 ---
 
-💡 Future Improvements
+#  Future Improvements
 
 
 🗣️ Add voice input for accessibility
@@ -146,8 +156,7 @@ TWILIO_PHONE=+1234567890
 
 ---
 
-
-🎯 Use Cases
+# 🎯 Use Cases
 
 
 Disaster zones with disrupted communication
@@ -159,14 +168,15 @@ NGOs coordinating rescue efforts
 
 ---
 
-📜 License
+# 📜 License
 
 
 This project is open-source under the MIT License.
 
 
 ---
-🙌 Acknowledgements
+
+# 🙌 Acknowledgements
 
 
 Firebase
@@ -182,7 +192,7 @@ Tailwind CSS
 
 ---
 
-👤 Author
+# 👤 Author
 
 
 Settipalle Pradeep Reddy
