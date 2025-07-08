@@ -117,7 +117,23 @@ Volunteers list shown dynamically from backend
 # 🖼️ Screenshots
 
 
-Login & Search	SOS Alert	Map View
+![life-line1](https://github.com/user-attachments/assets/9e950512-a5ef-450d-b411-1d0caa6bf63f)
+
+
+![life-line2](https://github.com/user-attachments/assets/f4ba4cb4-303a-449b-b9c9-dd54dc248c9e)
+
+
+![life-line3](https://github.com/user-attachments/assets/b6631ee9-2b68-4177-9c21-d955672bbfa6)
+
+
+![life-line4](https://github.com/user-attachments/assets/47e0aa33-72fe-492c-9810-d72828c92d06)
+
+
+![life-line5](https://github.com/user-attachments/assets/f9459642-a66a-4b97-84e2-192ffff0ecb5)
+
+
+![life-line6](https://github.com/user-attachments/assets/baf23367-480b-4329-af50-0924f3011586)
+
 
 
 ---
